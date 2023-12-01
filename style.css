@@ -1,0 +1,38 @@
+*{
+}
+
+
+#col img{
+    border-radius: 15px;
+    width: 300px;
+
+}
+#col{
+    padding-left: 190px;
+    padding-top: 99px;
+}
+#HEADER{
+    padding-top:100px;
+    background-color: antiquewhite;
+
+}
+#Educations{
+    padding-top: 200px;
+}
+#certif{
+    padding-top: 100px;
+}
+#footer{
+    padding: 0;
+    margin: 0;
+}
+
+#skill{
+    padding-top: 15px;
+}
+
+#pro h1{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
